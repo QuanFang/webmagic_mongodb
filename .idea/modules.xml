@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/es_spider.iml" filepath="$PROJECT_DIR$/es_spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webmagic_pic/webmagic_pic.iml" filepath="$PROJECT_DIR$/../webmagic_pic/webmagic_pic.iml" />
     </modules>
   </component>
 </project>
